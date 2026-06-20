@@ -1,0 +1,325 @@
+SQL Data Pipeline Development
+Open
+Bids
+
+36
+
+Average bid
+
+$135 USD
+
+
+Details
+
+Proposals
+Project Details
+$30.00 – 250.00 USD
+
+ Bidding ends in 6 days, 23 hours
+I'm seeking an experienced developer to create a robust data pipeline that connects to various databases and APIs.
+
+Key Requirements:
+- Primary purpose is either data migration, integration, or analysis (to be defined).
+- Connect to multiple data sources, specifically databases and APIs.
+- Work exclusively with SQL databases.
+
+Ideal Skills and Experience:
+- Proficiency in SQL and experience with database management.
+- Strong knowledge of API integration.
+- Previous experience in building data pipelines.
+- Familiarity with data migration and integration tools.
+
+Please provide examples of similar work done and your approach to this project.
+Skills Required
+SQL
+MySQL
+Database Programming
+Database Development
+Data Analysis
+Data Integration
+Database Management
+API Integration
+Project ID: 40526202
+
+
+`Hi,
+
+I am a full stack AI developer with 8 years of rich experience. I am familiar with SQL, MySQL, API integration, database design, data processing, and ETL/data pipeline development.
+
+For this project, the most important part is building a reliable pipeline that can securely connect multiple SQL databases and external APIs while keeping the data consistent and easy to maintain. I can design and implement the integration flow, handle data transformation and validation, optimize SQL performance, and provide a scalable solution for migration, synchronization, or analytics requirements.
+
+I'm an individual freelancer and can work on any time zone you want.
+Please contact me with the best time for you to have a quick chat.
+Looking forward to discussing more details.
+
+Thanks.
+Emile.`
+
+`Project Requirements
+1. Data Ingestion
+Connect to the specified data sources (e.g., websites, APIs, reports, PDFs, spreadsheets, or other formats).
+Monitor these sources for newly published reports or updates.
+Support automated and scheduled data collection processes.
+2. Data Extraction and Processing
+Automatically extract the required information from each new report as soon as it becomes available.
+Transform, standardize, and validate the extracted data according to predefined business rules.
+Map the extracted information to the required database schema.
+Handle different source formats while maintaining consistency in the stored data.
+3. Database Storage
+Store the processed data in a structured database using SQLite or PostgreSQL.
+The database schema, including the required tables and columns, will be provided separately.
+Maintain data integrity through appropriate constraints, indexing, and validation rules.
+4. Automated Updates
+Continuously monitor the source systems for newly published reports and updates.
+Automatically trigger the extraction and loading process whenever new data becomes available.
+Update existing records when necessary while preserving data consistency and auditability.
+5. Data Quality and Deduplication
+Implement automated duplicate detection mechanisms based on predefined matching criteria and unique identifiers.
+Prevent duplicate records from being inserted into the database.
+Automatically identify and remove duplicate entries when detected.
+Perform data cleansing and validation to ensure all stored information is accurate, complete, standardized, and free from inconsistencies.
+Maintain a single source of truth by ensuring that only the most current and valid version of each record is retained.
+Generate logs or reports of duplicate detections, removals, and data quality issues for auditing purposes.
+6. Scalability, Monitoring, and Maintenance
+Design the solution to support future expansion, including additional data sources and schema modifications.
+Implement comprehensive logging, monitoring, and alerting mechanisms.
+Include error handling and recovery procedures to ensure reliable operation.
+Provide documentation for the pipeline architecture, database schema, and maintenance procedures.
+Deliverables
+Fully functional automated data pipeline.
+Configured SQLite or PostgreSQL database.
+Data extraction, transformation, and loading (ETL/ELT) processes.
+Automated monitoring and update mechanisms.
+Deduplication and data quality management framework.
+Technical documentation and deployment instructions.
+
+The detailed list of data sources, required fields, database columns, extraction rules, and business requirements will be provided during the project planning phase.
+10:28 PM
+
+hello
+10:29 PM
+
+User Avatar
+Hi Emile
+10:30 PM
+
+Thank you for sharing the detailed requirements.
+10:30 PM
+
+I have experience building automated ETL pipelines that collect data from APIs, databases, spreadsheets and document sources, then perform validation, transformation, deduplication, and loading into SQL databases such as PostgreSQL and SQLite
+10:31 PM
+
+Before providing a fnal archtiecture and estimate may I ask some questions?
+10:31 PM
+
+User Avatar
+sure
+10:31 PM
+
+First, what are the main source types?
+APIs, websites, PDFs, spreadsheets, etc?
+10:31 PM
+
+And how many sources will be monitored and how frequently are new reports published?
+10:32 PM
+
+Do you prefer cloud deployment or should the solution run on a local/server environment?
+10:33 PM
+
+Once I understand the sources and update frequency, I can propose the safest pipeline archtiecture and implementation approach
+10:34 PM
+
+Data Sources
+
+The primary data sources consist of reports published on designated websites. These reports may be made available in one of the following formats:
+
+Web-based reports: Information published directly on website pages in a structured or semi-structured format.
+PDF reports: Downloadable reports published as PDF documents containing the required data.
+10:35 PM
+
+User Avatar
+would you like an example
+10:35 PM
+
+Sure, that would be very helpful
+10:36 PM
+
+https://www.gov.uk/maib-reports/uncontrolled-launching-of-fast-rescue-craft-from-lord-of-the-isles-during-a-training-exercise
+10:37 PM
+
+User Avatar
+let me share with you one more
+10:38 PM
+
+sure
+10:38 PM
+
+https://shk.se/engelska/the-swedish-accident-investigation-authority/search-investigation/maritime-transport/2025-06-18-meshka---grounding-off-landskrona
+10:38 PM
+
+User Avatar
+for example this one you will find information on the webpage + the investigation report as a pdf copy
+10:39 PM
+
+Thank you for sharing both examples.
+I understand the overall requirement now.
+The pipeline will need to monitor multiple investigation websites, detect newly published reports, extract information from both webpages and PDF reports, normalize the data into a common PostgreSQL/SQLite schema and handle validation, deduplication, logging and automated updates.
+10:42 PM
+
+I can design the solution in a scalable way so additional sources can be added later with minimal changes.
+10:43 PM
+
+User Avatar
+That's it exactly Voila!
+10:43 PM
+
+ok, everything looks clear for now
+10:44 PM
+
+Could you let me know your estimated budget?
+10:44 PM
+
+User Avatar
+The project scope appears fairly straightforward, so I'm happy to proceed at your quoted price of $250, provided it includes the automated data extraction, database updates, and deduplication requirements we've discussed. Looking forward to working together.
+10:46 PM
+
+thanks
+10:47 PM
+
+could you send me offer now?
+10:47 PM
+
+Once I receive the offer, I Can start work right away
+10:47 PM
+
+User Avatar
+Sure let me discuss with you the deadline of the project and share with you the 4 sources at the moment
+10:48 PM
+
+Please let me know your estiamted deadline?
+10:48 PM
+
+sorry. *? -> .
+10:48 PM
+
+10 - 15 days should be fair
+10:48 PM
+
+User Avatar
+let me know if you have any concerns so we can manage together
+10:49 PM
+
+no problem
+10:49 PM
+
+To be honest, once I have all the necessary data and requirements, I expect to complete the implementation within 1–2 business days.
+10:50 PM
+
+
+Milestone created by @fouadelmahdy
+Initial deposit
+—
+$175.00 USD
+10:52 PM
+
+Congratulations, your bid has been awarded!
+Click the Accept button below to start working.
+
+This project has a budget of $250.00 USD and you will be charged a project commission of $25.00 USD once you've accepted.
+
+Accept
+10:52 PM
+
+thanks for your offer
+10:52 PM
+
+DONE !
+10:53 PM
+
+User Avatar
+shall i share with you the sources now and what needs to be extracted
+10:53 PM
+
+yes, sure
+10:53 PM
+
+https://www.gov.uk/maib-reports/uncontrolled-launching-of-fast-rescue-craft-from-lord-of-the-isles-during-a-training-exercise
+10:54 PM
+
+MAIB Publish investigation reports regularly
+10:54 PM
+
+https://shk.se/engelska/the-swedish-accident-investigation-authority/search-investigation/maritime-transport/2025-06-18-meshka---grounding-off-landskrona
+10:54 PM
+
+the swedish accident investigation publish regulary however, don't forget to filter your results only to maritime incidents
+10:55 PM
+
+you will see when you go to the website it will ask you which category you would like to see
+10:55 PM
+
+https://www.nautinst.org/resources-page/202621-mind-the-gap-a-ppe-incident.html
+10:56 PM
+
+Nautical institute publish reports and safety flashes also related to maritime incidents and accidents
+10:56 PM
+
+https://www.imca-int.com/resources/safety/safety-flashes/
+10:58 PM
+
+imca publish safety flashes regulary data needs to be collected from it.
+10:58 PM
+
+https://www.imca-int.com/resources/dp/dp-incidents/
+10:59 PM
+
+User Avatar
+they publkish also dp events and incidents data needs to be collected from it
+10:59 PM
+
+got it, I'll start work for now and if I have any questions, I'll contact you
+11:00 PM
+
+thanks
+11:00 PM
+
+User Avatar
+shall i share with you also what data needs to be sorted in the tables or u will manage ?
+11:00 PM
+
+Please share datas if you have specific columns for that.
+11:01 PM
+
+It would be helpful to make everything to fit your expectation.
+11:01 PM
+
+User Avatar
+let me sort this out for you
+11:02 PM
+
+ok, sure
+11:02 PM
+
+Offshore_Incident_Intelligence_Template.xlsx
+11:09 PM
+
+User Avatar
+like this
+11:11 PM
+
+👍
+11:11 PM
+
+User Avatar
++447888427669 in case u texted me here and i didn't respond. Good luck
+11:12 PM
+
+Execuse me, according to the freelancer rule,we have to keep contact here
+11:13 PM
+
+User Avatar
+will be better no worries i realised i get notifications on my emails if u send me messasge here
+11:14 PM
+
+ok, thanks
+`
